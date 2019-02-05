@@ -1,0 +1,5 @@
+p{
+	background: purple;
+	color: yellow;
+	margin: 30 px;
+}
